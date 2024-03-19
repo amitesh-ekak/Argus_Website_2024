@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Century;
+    src: url(../Assets/Font/century-gothic/GOTHICB.TTF);
+}
+@font-face {
+    font-family: Century_1;
+    src: url(../Assets/Font/century-gothic/GOTHIC.TTF);
+}
+
+.Construction_heading{
+    font-family: century_1;
+    color:#E4E4E4;
+}
+.Construction_bg{
+    background: #000012;
+}
+.technology_heading{
+    font-family: century_1;
+
+}
+.Argus_help{
+    color: #F4C24B;
+    font-family: century_1;
+}
+.Construction_point_font{
+    font-family: century_1;
+    padding-left: 20px;
+}
+.site_surveillance_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 20px;
+}
+.site_surveillance_points{
+   font-family: century_1;
+   padding-top: 5px;
+   padding-left: 40px;
+   font-size: 85%;
+}
+.resource_management_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.resource_management_points{
+    font-family: century_1;
+   padding-top: 5px;
+   padding-left: 50px;
+   padding-right: 50px;
+   font-size: 85%;
+}
+.safety_compliance_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.safety_compliance_points{
+    font-family: century_1;
+   padding-top: 5px;
+   padding-left: 50px;
+   padding-right: 30px;
+   font-size: 85%;
+}
+

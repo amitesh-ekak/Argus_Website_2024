@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Century;
+    src: url(../Assets/Font/century-gothic/GOTHICB.TTF);
+}
+@font-face {
+    font-family: Century_1;
+    src: url(../Assets/Font/century-gothic/GOTHIC.TTF);
+}
+h1{
+    font-family: century;
+}
+h2{
+    font-family: century;
+}
+.font_heading{
+    font-family: century;
+    font-weight: lighter;
+    color: #F4C24B;
+}
+p{
+    font-family: century_1;
+    font-size:large ;
+    font-weight: lighter;
+}
+.font{
+    font-family: century_1;
+    font-size: small;
+    font-weight: lighter;
+    color:white
+}
+/* .sub_heading_2{
+    font-family:century_1;
+    font-weight: lighter;
+} */
+.card_body{
+    background-color: #000012
+    
+}
+.body{
+    background-color: #000012;
+}
+.bg-color_1{
+    background-color: #E4E4E4;
+}

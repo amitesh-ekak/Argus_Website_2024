@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Century;
+    src: url(../Assets/Font/century-gothic/GOTHICB.TTF);
+}
+@font-face {
+    font-family: Century_1;
+    src: url(../Assets/Font/century-gothic/GOTHIC.TTF);
+}
+.heading{
+    font-family: century_1;
+    font-size: 80px;
+    font-weight: lighter;
+    color:#E9C46A;
+    text-align: center;
+
+}
+.sub_heading
+{
+    font-family: century_1;
+    font-size: 40px;
+    font-style: italic;
+    color:#E9C46A
+}
+.heading_1{
+    font-family: century;
+    font-size: 70px;
+    color:white;
+    text-align: center;
+
+}
+.sub_heading_1{
+    font-family:century_1;
+    font-size:20px;
+    color:#E9C46A;
+}

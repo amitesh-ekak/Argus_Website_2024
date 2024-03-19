@@ -1,0 +1,83 @@
+@font-face {
+    font-family: Century;
+    src: url(../Assets/Font/century-gothic/GOTHICB.TTF);
+}
+@font-face {
+    font-family: Century_1;
+    src: url(../Assets/Font/century-gothic/GOTHIC.TTF);
+}
+
+.Manufacturing_heading{
+    font-family: century_1;
+    color:#E4E4E4;
+}
+.Manufacturing_bg{
+    background: #000012;
+}
+.Argus_help{
+    color: #F4C24B;
+    font-family: century_1;
+}
+.point_font{
+    font-family: century_1;
+    padding-left: 20px;
+}
+.Proactive_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 20px;
+}
+.Proactive_points{
+   font-family: century_1;
+   padding-top: 5px;
+   padding-left: 45px;
+   padding-right: 50px;
+   font-size: 85%;
+}
+.Quality_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 20px;
+
+}
+.Quality_points{
+    font-family: century_1;
+   padding-top: 5px;
+   padding-left: 50px;
+   padding-right: 50px;
+   font-size: 85%;
+}
+.security_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.security_points{
+    font-family: century_1;
+   padding-top: 5px;
+   padding-left: 50px;
+   padding-right: 30px;
+   font-size: 85%;
+}
+.emergency_heading{
+    font-family: century_1;
+    font-size:150%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.emergency_points{
+    font-family: century_1;
+   padding-top: 5px;
+   padding-left: 45px;
+   padding-right: 50px;
+   font-size: 85%;
+}
+
+
